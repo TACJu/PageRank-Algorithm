@@ -1,2 +1,2 @@
 # Web-Data-Mining
-Repo for 2018 Fall course —— Web Data Mining
+2018 Fall course —— Web Data Mining
