@@ -1,0 +1,18 @@
+Title: Anarchism * PageRank: 0.04110904420114413
+Title: Autism * PageRank: 0.04110904420114413
+Title: Albedo * PageRank: 0.04110904420114413
+Title: A * PageRank: 0.04110904420114413
+Title: Alabama * PageRank: 0.04110904420114413
+Title: Achilles * PageRank: 0.04110904420114413
+Title: Abraham Lincoln * PageRank: 0.04110904420114413
+Title: Aristotle * PageRank: 0.04110904420114413
+Title: An American in Paris * PageRank: 0.04110904420114413
+Title: Academy Award for Best Production Design * PageRank: 0.2739002568937075
+Title: Academy Awards * PageRank: 0.2739002568937075
+Title: Actrius * PageRank: 0.04110904420114413
+Title: Animalia (book) * PageRank: 0.04110904420114413
+
+process data takes 0s
+graph link takes 0s
+iter takes 0s
+write file takes 0s
