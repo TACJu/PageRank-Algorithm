@@ -1,4 +1,4 @@
-gitimport re
+import re
 import time
 import scipy.sparse as sparse
 import numpy as np
