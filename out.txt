@@ -1,0 +1,1000 @@
+Title: United States
+ * PageRank: 0.002812716225247136
+Title: United States Census Bureau
+ * PageRank: 0.0017388362772950581
+Title: The New York Times
+ * PageRank: 0.0013393828585410552
+Title: United Kingdom
+ * PageRank: 0.0012107762960877717
+Title: World War II
+ * PageRank: 0.0011897923026525919
+Title: New York City
+ * PageRank: 0.0009634934997581387
+Title: Germany
+ * PageRank: 0.0008377404785582063
+Title: England
+ * PageRank: 0.0007595971059132969
+Title: London
+ * PageRank: 0.0007189049191637553
+Title: Japan
+ * PageRank: 0.0006824671654845772
+Title: 2010 United States Census
+ * PageRank: 0.0006678630046617531
+Title: India
+ * PageRank: 0.000647734726926138
+Title: Category:Categories by country
+ * PageRank: 0.0006251007730315585
+Title: California
+ * PageRank: 0.000622901378481427
+Title: Category:Human behavior
+ * PageRank: 0.00062059943965069
+Title: Category:Culture
+ * PageRank: 0.0005854096441760065
+Title: Italy
+ * PageRank: 0.0005821105770808987
+Title: Category:Countries
+ * PageRank: 0.0005722054836564505
+Title: List of sovereign states
+ * PageRank: 0.0005646041495844808
+Title: Marriage
+ * PageRank: 0.000519619817884077
+Title: Washington, D.C.
+ * PageRank: 0.0005108773246998787
+Title: Soviet Union
+ * PageRank: 0.0005032775291253709
+Title: Republican Party (United States)
+ * PageRank: 0.0004993219877411368
+Title: China
+ * PageRank: 0.0004919223574835688
+Title: Latin
+ * PageRank: 0.00048355462868138774
+Title: Spain
+ * PageRank: 0.0004727748197589714
+Title: Netherlands
+ * PageRank: 0.00046866017862737117
+Title: Russia
+ * PageRank: 0.00046491313621411433
+Title: Paris
+ * PageRank: 0.0004533673099371794
+Title: Europe
+ * PageRank: 0.0004484298923751732
+Title: Scotland
+ * PageRank: 0.00042897859475670943
+Title: Geographic Names Information System
+ * PageRank: 0.00041906979557276033
+Title: Category:Humanities
+ * PageRank: 0.0004133385275681816
+Title: Category:Anthropology
+ * PageRank: 0.00041269634453195526
+Title: French language
+ * PageRank: 0.00040433088406986164
+Title: Wikipedia:Esperanza
+ * PageRank: 0.00039861430866424357
+Title: European Union
+ * PageRank: 0.0003926536019008155
+Title: Oxford University Press
+ * PageRank: 0.0003702177834791903
+Title: Texas
+ * PageRank: 0.00036199526696534495
+Title: Category:Society
+ * PageRank: 0.0003618268228659541
+Title: Ontario
+ * PageRank: 0.00035973006785598976
+Title: Poland
+ * PageRank: 0.00035274238643455397
+Title: American Civil War
+ * PageRank: 0.00034700735935553224
+Title: Category:Social sciences
+ * PageRank: 0.0003460572861201679
+Title: Pennsylvania
+ * PageRank: 0.0003450696820442006
+Title: Spanish language
+ * PageRank: 0.0003436428734927728
+Title: Brazil
+ * PageRank: 0.00034261772891236664
+Title: Switzerland
+ * PageRank: 0.0003376974168754447
+Title: Cambridge University Press
+ * PageRank: 0.000336587310097224
+Title: Los Angeles
+ * PageRank: 0.00032793066683513446
+Title: Los Angeles Times
+ * PageRank: 0.0003267915923103517
+Title: Category:Humans
+ * PageRank: 0.000324835879909411
+Title: The Washington Post
+ * PageRank: 0.0003245246947228857
+Title: Chicago
+ * PageRank: 0.00032386023062735194
+Title: United Nations
+ * PageRank: 0.00031084356279621484
+Title: Norway
+ * PageRank: 0.00031033588846908386
+Title: Belgium
+ * PageRank: 0.0003031221137166168
+Title: President of the United States
+ * PageRank: 0.0003008892728348572
+Title: Conservative Party (UK)
+ * PageRank: 0.00029855539524828537
+Title: BBC News
+ * PageRank: 0.000295359969920537
+Title: German language
+ * PageRank: 0.0002883033883066834
+Title: Category:World
+ * PageRank: 0.0002815180585353185
+Title: Rome
+ * PageRank: 0.0002799159149616681
+Title: Köppen climate classification
+ * PageRank: 0.00027881896264509906
+Title: Category:Academic disciplines
+ * PageRank: 0.0002733084931113708
+Title: Roman Empire
+ * PageRank: 0.0002732824599378658
+Title: Ottoman Empire
+ * PageRank: 0.0002730429242492732
+Title: Category:Nationality
+ * PageRank: 0.00027238128652814223
+Title: Christianity
+ * PageRank: 0.00027219840740238394
+Title: North America
+ * PageRank: 0.0002716421277000382
+Title: Toronto
+ * PageRank: 0.00027109394017913526
+Title: Massachusetts
+ * PageRank: 0.0002683699292119214
+Title: Greek language
+ * PageRank: 0.00026820701878287154
+Title: Category:Republics
+ * PageRank: 0.0002679117833216154
+Title: Philadelphia
+ * PageRank: 0.00026560098211777725
+Title: Philippines
+ * PageRank: 0.000264417385504009
+Title: Catholic Church
+ * PageRank: 0.0002636784877660235
+Title: Microsoft
+ * PageRank: 0.00026287222353560814
+Title: Category:Visual arts
+ * PageRank: 0.000261951449267291
+Title: Greece
+ * PageRank: 0.00025824679622795397
+Title: Illinois
+ * PageRank: 0.0002571570825796471
+Title: Category:Politics
+ * PageRank: 0.00025272991522852744
+Title: Denmark
+ * PageRank: 0.00024983265555153527
+Title: Finland
+ * PageRank: 0.0002462689181466187
+Title: Virginia
+ * PageRank: 0.0002446726439044444
+Title: Michigan
+ * PageRank: 0.00024100734365283382
+Title: Category:Academia
+ * PageRank: 0.00024080711403420274
+Title: Portugal
+ * PageRank: 0.0002381388289335369
+Title: Time (magazine)
+ * PageRank: 0.00023770948658941601
+Title: Ohio
+ * PageRank: 0.00023736219758559908
+Title: Berlin
+ * PageRank: 0.00023717738333112691
+Title: Category:Learning
+ * PageRank: 0.00023283510759402568
+Title: New Jersey
+ * PageRank: 0.00023231317161449093
+Title: Hong Kong
+ * PageRank: 0.00023074871705728035
+Title: Category:Behavior
+ * PageRank: 0.00023062042850078253
+Title: Middle Ages
+ * PageRank: 0.00022821933295310044
+Title: Minnesota
+ * PageRank: 0.00022427520608649785
+Title: Microsoft Windows
+ * PageRank: 0.00022393765904832306
+Title: Renaissance
+ * PageRank: 0.000221351021270764
+Title: Category:United States
+ * PageRank: 0.00021856484177771443
+Title: AllMusic
+ * PageRank: 0.000218389318324013
+Title: Iran
+ * PageRank: 0.00021558622019834435
+Title: Ireland
+ * PageRank: 0.00021455519726766779
+Title: Wales
+ * PageRank: 0.00021368248949085584
+Title: Taiwan
+ * PageRank: 0.0002127855866314863
+Title: United States Congress
+ * PageRank: 0.0002117602259783342
+Title: Category:Entertainment
+ * PageRank: 0.00021161577737935098
+Title: San Francisco
+ * PageRank: 0.00021146657782125677
+Title: Royal Navy
+ * PageRank: 0.00021086989035627902
+Title: Pakistan
+ * PageRank: 0.00021066252717547333
+Title: The Times
+ * PageRank: 0.0002083345157111019
+Title: Category:States of the United States
+ * PageRank: 0.00020818113179370943
+Title: Republic of Ireland
+ * PageRank: 0.0002081374335106347
+Title: Category:Psychology
+ * PageRank: 0.00020811121864582521
+Title: National Register of Historic Places
+ * PageRank: 0.0002077120812753566
+Title: NBC
+ * PageRank: 0.00020475486723565528
+Title: Indonesia
+ * PageRank: 0.00020377670472071353
+Title: Category:Geography by country
+ * PageRank: 0.0002028121453582216
+Title: Category:Years
+ * PageRank: 0.00020126606865203942
+Title: Buddhism
+ * PageRank: 0.00019990851788197775
+Title: Cold War
+ * PageRank: 0.0001993276434342781
+Title: The Independent
+ * PageRank: 0.0001987844889274128
+Title: Tokyo
+ * PageRank: 0.00019865599763986623
+Title: CBS
+ * PageRank: 0.00019828203393435802
+Title: Barack Obama
+ * PageRank: 0.00019787747530048018
+Title: George W. Bush
+ * PageRank: 0.000195871635135574
+Title: Nazi Germany
+ * PageRank: 0.00019581529990231092
+Title: Rolling Stone
+ * PageRank: 0.0001951637994438768
+Title: Moscow
+ * PageRank: 0.00019488857502108825
+Title: Ukraine
+ * PageRank: 0.00019463666354959953
+Title: Vienna
+ * PageRank: 0.00019298345080750933
+Title: Earth
+ * PageRank: 0.0001916210592147768
+Title: British Columbia
+ * PageRank: 0.0001914392226173345
+Title: North Carolina
+ * PageRank: 0.00019050128827616234
+Title: New South Wales
+ * PageRank: 0.00019041387672315236
+Title: Wisconsin
+ * PageRank: 0.00018994512115165055
+Title: Singapore
+ * PageRank: 0.00018993679817102892
+Title: Category:Nature
+ * PageRank: 0.00018927729088393942
+Title: Category:Geography of the United States
+ * PageRank: 0.0001883843692714332
+Title: Communes of France
+ * PageRank: 0.0001883704529442229
+Title: Atlantic Ocean
+ * PageRank: 0.0001879464180762736
+Title: Native Americans in the United States
+ * PageRank: 0.00018746713687089583
+Title: Internet
+ * PageRank: 0.00018627089157446586
+Title: South Korea
+ * PageRank: 0.00018570466413701057
+Title: Category:Knowledge
+ * PageRank: 0.00018554666379271177
+Title: Alaska
+ * PageRank: 0.00018550535244215294
+Title: Maryland
+ * PageRank: 0.00018506075374502778
+Title: Columbia University
+ * PageRank: 0.0001846847831181261
+Title: International Phonetic Alphabet
+ * PageRank: 0.0001845432573853996
+Title: Northern Ireland
+ * PageRank: 0.00018100523493111447
+Title: USA Today
+ * PageRank: 0.00018053357916875725
+Title: Southern United States
+ * PageRank: 0.00018023017754194127
+Title: Category:Education
+ * PageRank: 0.0001798342910045815
+Title: American Broadcasting Company
+ * PageRank: 0.00017939854201540672
+Title: Sydney
+ * PageRank: 0.00017876055493970641
+Title: Romania
+ * PageRank: 0.00017762486917240823
+Title: Pacific Ocean
+ * PageRank: 0.00017697379567686747
+Title: Category:Wikipedia administration
+ * PageRank: 0.00017480397829790602
+Title: CNN
+ * PageRank: 0.00017367390269145287
+Title: The Wall Street Journal
+ * PageRank: 0.00017359139404889235
+Title: Georgia (U.S. state)
+ * PageRank: 0.000173023776428106
+Title: Asia
+ * PageRank: 0.0001714032865565107
+Title: United States Army
+ * PageRank: 0.00017079786413023697
+Title: Encyclopædia Britannica
+ * PageRank: 0.00017064981528520847
+Title: Wikipedia:AutoWikiBrowser
+ * PageRank: 0.0001703263686428332
+Title: Holy Roman Empire
+ * PageRank: 0.00016812542844210675
+Title: Missouri
+ * PageRank: 0.00016785296985399515
+Title: Italian language
+ * PageRank: 0.00016776169232237363
+Title: Category:Skills
+ * PageRank: 0.00016697050942890245
+Title: Hungary
+ * PageRank: 0.00016671964630013338
+Title: Hawaii
+ * PageRank: 0.00016538851142719393
+Title: Major League Baseball
+ * PageRank: 0.0001651412697588227
+Title: Manhattan
+ * PageRank: 0.00016273912908062554
+Title: Czech Republic
+ * PageRank: 0.00016155349684190395
+Title: Athens
+ * PageRank: 0.0001614376560185026
+Title: Category:Cognition
+ * PageRank: 0.00016099080922537
+Title: National Park Service
+ * PageRank: 0.00016097365603920827
+Title: French Revolution
+ * PageRank: 0.00016078886785474204
+Title: Vietnam War
+ * PageRank: 0.00016030665181943554
+Title: NATO
+ * PageRank: 0.00015874168651052627
+Title: Supreme Court of the United States
+ * PageRank: 0.00015777929772241265
+Title: British Empire
+ * PageRank: 0.0001575334128829622
+Title: National Football League
+ * PageRank: 0.0001561593561827152
+Title: Russian language
+ * PageRank: 0.0001561577725650723
+Title: Church of England
+ * PageRank: 0.00015598841412676375
+Title: Malaysia
+ * PageRank: 0.0001546387872909164
+Title: Puerto Rico
+ * PageRank: 0.00015449305452325637
+Title: Louisiana
+ * PageRank: 0.00015446118295631234
+Title: Forbes
+ * PageRank: 0.0001542763967353391
+Title: Colorado
+ * PageRank: 0.00015411220690784384
+Title: Category:Chemistry
+ * PageRank: 0.00015290673185634667
+Title: Ancient Greek
+ * PageRank: 0.00015226137953329056
+Title: Routledge
+ * PageRank: 0.00014971546997736516
+Title: University of Oxford
+ * PageRank: 0.00014969609559268643
+Title: Dublin
+ * PageRank: 0.00014959121175741293
+Title: South America
+ * PageRank: 0.00014941977891676152
+Title: American Revolutionary War
+ * PageRank: 0.00014900773356283595
+Title: Chile
+ * PageRank: 0.00014900210594510655
+Title: Category:Economies by country
+ * PageRank: 0.00014765753589754047
+Title: Edinburgh
+ * PageRank: 0.00014752012914992027
+Title: Portuguese language
+ * PageRank: 0.00014730348276320308
+Title: Chicago Tribune
+ * PageRank: 0.0001471989326635591
+Title: Sanskrit
+ * PageRank: 0.00014718466906871614
+Title: Category:People by occupation
+ * PageRank: 0.00014637255788814567
+Title: Colombia
+ * PageRank: 0.0001455975760213713
+Title: Thailand
+ * PageRank: 0.0001455737175256675
+Title: YouTube
+ * PageRank: 0.0001452448296145551
+Title: Category:Earth sciences
+ * PageRank: 0.00014520483308799384
+Title: Central European Time
+ * PageRank: 0.00014459110972522973
+Title: Ronald Reagan
+ * PageRank: 0.00014296263862381646
+Title: Google
+ * PageRank: 0.00014290455982684375
+Title: Kentucky
+ * PageRank: 0.0001417952276456335
+Title: Category:Law
+ * PageRank: 0.00014170732200420287
+Title: Bill Clinton
+ * PageRank: 0.00014154611443862152
+Title: Tennessee
+ * PageRank: 0.00014149516159319016
+Title: Category:Geography of the United States by state
+ * PageRank: 0.00014147016816824017
+Title: Peru
+ * PageRank: 0.0001413813531168756
+Title: Yale University
+ * PageRank: 0.00014058243769641887
+Title: Alexa Internet
+ * PageRank: 0.00014025275298117437
+Title: Brussels
+ * PageRank: 0.00013995158960178626
+Title: Category:Applied sciences
+ * PageRank: 0.00013967664615901855
+Title: Hinduism
+ * PageRank: 0.00013958985470095147
+Title: Muslim
+ * PageRank: 0.0001395300593133807
+Title: Ancient Rome
+ * PageRank: 0.0001394095453255617
+Title: Category:Government
+ * PageRank: 0.00013850398425082093
+Title: Franklin D. Roosevelt
+ * PageRank: 0.00013819536790431931
+Title: DNA
+ * PageRank: 0.00013788943546107
+Title: Category:Forms of government
+ * PageRank: 0.00013769080635893182
+Title: Category:Business
+ * PageRank: 0.00013762310338938475
+Title: Association football
+ * PageRank: 0.00013716834250132137
+Title: Munich
+ * PageRank: 0.0001364875352773344
+Title: Atlanta
+ * PageRank: 0.000136021821910855
+Title: Parliament of the United Kingdom
+ * PageRank: 0.00013408795493274095
+Title: Category:Cognitive science
+ * PageRank: 0.00013396661339374632
+Title: Stockholm
+ * PageRank: 0.00013382441544476588
+Title: Eastern Orthodox Church
+ * PageRank: 0.00013349969436769654
+Title: Pulitzer Prize
+ * PageRank: 0.00013313293908109584
+Title: Stanford University
+ * PageRank: 0.0001330402764432474
+Title: Adolf Hitler
+ * PageRank: 0.0001328163950420642
+Title: Connecticut
+ * PageRank: 0.0001327669654013438
+Title: Croatia
+ * PageRank: 0.00013235622573955303
+Title: Jerusalem
+ * PageRank: 0.00013222490514163475
+Title: Alberta
+ * PageRank: 0.00013153734570790372
+Title: Category:Political philosophy
+ * PageRank: 0.0001308180057394346
+Title: Eastern Time Zone
+ * PageRank: 0.000130643321842466
+Title: Category:Government by country
+ * PageRank: 0.00013046457422111928
+Title: Serbia
+ * PageRank: 0.00013034906788877705
+Title: Ottawa
+ * PageRank: 0.00013030612719866855
+Title: British Army
+ * PageRank: 0.00013006815322018532
+Title: Category:Politics by country
+ * PageRank: 0.00012995706436647855
+Title: House of Lords
+ * PageRank: 0.00012967881259030978
+Title: Category:Units of time
+ * PageRank: 0.00012936218719833908
+Title: Republic
+ * PageRank: 0.00012907723351420294
+Title: Wikipedia:Signatures
+ * PageRank: 0.00012901963212650063
+Title: Alabama
+ * PageRank: 0.00012891253020386073
+Title: Mississippi River
+ * PageRank: 0.0001287855051456244
+Title: Vietnam
+ * PageRank: 0.0001282865263350878
+Title: Kansas
+ * PageRank: 0.0001282610506508566
+Title: Afghanistan
+ * PageRank: 0.00012823627547724843
+Title: Carl Linnaeus
+ * PageRank: 0.00012815043517185742
+Title: Richard Nixon
+ * PageRank: 0.0001278820999193459
+Title: Category:Films by year
+ * PageRank: 0.00012765376430820343
+Title: Departments of France
+ * PageRank: 0.00012745777875884502
+Title: Amsterdam
+ * PageRank: 0.0001270263978729888
+Title: Central European Summer Time
+ * PageRank: 0.00012700255987748346
+Title: Utah
+ * PageRank: 0.00012689563681799257
+Title: International Monetary Fund
+ * PageRank: 0.0001267170091536495
+Title: City
+ * PageRank: 0.0001267137313769222
+Title: Oklahoma
+ * PageRank: 0.00012589469245660766
+Title: Category:Museology
+ * PageRank: 0.00012578530366811705
+Title: Nevada
+ * PageRank: 0.00012573740460897188
+Title: New Mexico
+ * PageRank: 0.00012565691109249342
+Title: German Empire
+ * PageRank: 0.00012548576823756744
+Title: Middle East
+ * PageRank: 0.00012519211620653844
+Title: National Hockey League
+ * PageRank: 0.00012488868189984196
+Title: Judaism
+ * PageRank: 0.00012488030918732425
+Title: Bulgaria
+ * PageRank: 0.00012467243538483175
+Title: Geneva
+ * PageRank: 0.00012446474673507088
+Title: Category:Vision
+ * PageRank: 0.0001234974545579697
+Title: Category:Personal life
+ * PageRank: 0.00012274343323828094
+Title: Detroit
+ * PageRank: 0.00012255356916999414
+Title: George Washington
+ * PageRank: 0.0001224775932476525
+Title: European Parliament
+ * PageRank: 0.00012235860051743088
+Title: Billboard Hot 100
+ * PageRank: 0.00012184203081041545
+Title: Category:Natural sciences
+ * PageRank: 0.00012183866980865527
+Title: Category:Nationalism
+ * PageRank: 0.00012154439266891396
+Title: Bachelor of Arts
+ * PageRank: 0.00012141951211570542
+Title: Queensland
+ * PageRank: 0.00012131774059362006
+Title: The New Yorker
+ * PageRank: 0.00012103559446669064
+Title: Constantinople
+ * PageRank: 0.00012096737461172472
+Title: Maine
+ * PageRank: 0.00012069567556594332
+Title: Morocco
+ * PageRank: 0.00012045691782275801
+Title: Category:Rights
+ * PageRank: 0.00012014049493893775
+Title: Venezuela
+ * PageRank: 0.00011981973852742613
+Title: South Carolina
+ * PageRank: 0.00011969003481385987
+Title: Glasgow
+ * PageRank: 0.00011949113522176454
+Title: Applied science
+ * PageRank: 0.00011942935304340972
+Title: Winston Churchill
+ * PageRank: 0.00011932733006437038
+Title: Roman Republic
+ * PageRank: 0.00011887770727300697
+Title: Mayor
+ * PageRank: 0.00011875904815756782
+Title: Bible
+ * PageRank: 0.00011838590188878265
+Title: Western United States
+ * PageRank: 0.0001182214829053323
+Title: Albert Einstein
+ * PageRank: 0.00011811928904097618
+Title: The Economist
+ * PageRank: 0.00011794614645528215
+Title: Milan
+ * PageRank: 0.00011783922549913955
+Title: World Wide Web
+ * PageRank: 0.00011782349735354481
+Title: Federal government of the United States
+ * PageRank: 0.00011771077611514945
+Title: Internet Archive
+ * PageRank: 0.00011756332213758475
+Title: Category:Earth
+ * PageRank: 0.00011710057526857632
+Title: Entertainment Weekly
+ * PageRank: 0.0001170930807981712
+Title: Princeton University
+ * PageRank: 0.00011708073480703089
+Title: National Basketball Association
+ * PageRank: 0.00011585742511668235
+Title: Royal Air Force
+ * PageRank: 0.00011515573395552332
+Title: Category:Chronology
+ * PageRank: 0.00011502782870443615
+Title: Chinese language
+ * PageRank: 0.00011487404485433827
+Title: Prague
+ * PageRank: 0.00011470467700017538
+Title: Aristotle
+ * PageRank: 0.00011422640330577461
+Title: United States Constitution
+ * PageRank: 0.00011413428797935151
+Title: West Virginia
+ * PageRank: 0.00011399884323606587
+Title: Category:Political theories
+ * PageRank: 0.00011385804658304002
+Title: Iceland
+ * PageRank: 0.00011365983855027394
+Title: Wikipedia:Project namespace
+ * PageRank: 0.00011334422060312702
+Title: Category:Time
+ * PageRank: 0.00011299620763200489
+Title: Politics
+ * PageRank: 0.00011293915813331684
+Title: ESPN
+ * PageRank: 0.00011205959061081377
+Title: Hamburg
+ * PageRank: 0.0001113398995575991
+Title: Abraham Lincoln
+ * PageRank: 0.00011110884473350872
+Title: Mexico City
+ * PageRank: 0.00011103815672570094
+Title: Liberal Party of Canada
+ * PageRank: 0.00011066989781913342
+Title: Mediterranean Sea
+ * PageRank: 0.00011064967566120705
+Title: Wikipedia:Administrators
+ * PageRank: 0.00011046686182371001
+Title: National Oceanic and Atmospheric Administration
+ * PageRank: 0.0001095408990481579
+Title: University of California, Berkeley
+ * PageRank: 0.0001094320946729268
+Title: Warsaw
+ * PageRank: 0.00010925219631622955
+Title: Category:Years in film
+ * PageRank: 0.00010888970165137335
+Title: Manchester
+ * PageRank: 0.0001088611089311111
+Title: Sri Lanka
+ * PageRank: 0.00010875166066431216
+Title: International Organization for Standardization
+ * PageRank: 0.00010848067302094069
+Title: Korean War
+ * PageRank: 0.00010841814195771136
+Title: Persian language
+ * PageRank: 0.00010826398867299592
+Title: Saudi Arabia
+ * PageRank: 0.00010820394822747452
+Title: American Revolution
+ * PageRank: 0.00010811379799234889
+Title: Florence
+ * PageRank: 0.00010796423527051798
+Title: Bavaria
+ * PageRank: 0.0001076033576090218
+Title: Henry VIII of England
+ * PageRank: 0.00010733407276950072
+Title: Category:Art by country
+ * PageRank: 0.00010731228595187868
+Title: New Hampshire
+ * PageRank: 0.00010695582165686067
+Title: Apple Inc.
+ * PageRank: 0.00010676382053257108
+Title: European Commission
+ * PageRank: 0.00010598317407021026
+Title: Nature (journal)
+ * PageRank: 0.00010597031311966357
+Title: Columbia Records
+ * PageRank: 0.0001058395064839785
+Title: Order of the British Empire
+ * PageRank: 0.0001057531918144638
+Title: Rotten Tomatoes
+ * PageRank: 0.00010557768813799823
+Title: Category:Cultural history
+ * PageRank: 0.00010556344328270056
+Title: Slovakia
+ * PageRank: 0.00010499100973285474
+Title: Japanese language
+ * PageRank: 0.00010487049779026669
+Title: PDF
+ * PageRank: 0.0001045478398766122
+Title: Midwestern United States
+ * PageRank: 0.000104515127869749
+Title: Thomas Jefferson
+ * PageRank: 0.00010434988001629487
+Title: West Germany
+ * PageRank: 0.00010413029050865394
+Title: Massachusetts Institute of Technology
+ * PageRank: 0.0001039588948593602
+Title: UK Singles Chart
+ * PageRank: 0.00010365024855684816
+Title: United States Air Force
+ * PageRank: 0.0001035251889313163
+Title: Allies of World War II
+ * PageRank: 0.00010328309379597021
+Title: Sicily
+ * PageRank: 0.00010320818291252765
+Title: Nigeria
+ * PageRank: 0.00010308578479404947
+Title: Holy See
+ * PageRank: 0.00010306887288209928
+Title: Venice
+ * PageRank: 0.0001025367734719003
+Title: Nova Scotia
+ * PageRank: 0.0001024015098618546
+Title: Lithuania
+ * PageRank: 0.0001020652129597765
+Title: Template:Cfr
+ * PageRank: 0.00010203307355274957
+Title: University of Chicago
+ * PageRank: 0.00010186283363528437
+Title: Brooklyn
+ * PageRank: 0.00010168670792825477
+Title: White House
+ * PageRank: 0.00010168075553046011
+Title: Prussia
+ * PageRank: 0.00010124037188603556
+Title: Manitoba
+ * PageRank: 0.00010097328763509765
+Title: Prime Minister of the United Kingdom
+ * PageRank: 0.00010068128252031151
+Title: Nature
+ * PageRank: 0.00010057008035727686
+Title: Vermont
+ * PageRank: 0.00010038328015437991
+Title: Kingdom of Great Britain
+ * PageRank: 0.00010035325641733724
+Title: Category:Digital technology
+ * PageRank: 0.00010027460674505861
+Title: Arkansas
+ * PageRank: 0.00010000661775760351
+Title: Billboard 200
+ * PageRank: 9.97468401516041e-05
+Title: Queen Victoria
+ * PageRank: 9.921076461067726e-05
+Title: Liverpool
+ * PageRank: 9.87005435436231e-05
+Title: Napoleon
+ * PageRank: 9.866114452373466e-05
+Title: Moon
+ * PageRank: 9.86175730483374e-05
+Title: Category:People
+ * PageRank: 9.861753692256928e-05
+Title: Category:Linguistics
+ * PageRank: 9.824938718430151e-05
+Title: Census-designated place
+ * PageRank: 9.796444354045939e-05
+Title: Oxford
+ * PageRank: 9.790317568169037e-05
+Title: Cyprus
+ * PageRank: 9.780261035918485e-05
+Title: New Orleans
+ * PageRank: 9.776890083942084e-05
+Title: Bangladesh
+ * PageRank: 9.765276974395584e-05
+Title: Vancouver
+ * PageRank: 9.757649037988621e-05
+Title: Category:History of film
+ * PageRank: 9.729451983286334e-05
+Title: Napoleonic Wars
+ * PageRank: 9.722349016405941e-05
+Title: Rock music
+ * PageRank: 9.696126800291968e-05
+Title: Metacritic
+ * PageRank: 9.689675086052733e-05
+Title: Joseph Stalin
+ * PageRank: 9.673226517627693e-05
+Title: Olympic Games
+ * PageRank: 9.652100607850625e-05
+Title: Template:Cfm
+ * PageRank: 9.641405738420206e-05
+Title: Oxford English Dictionary
+ * PageRank: 9.634281504158539e-05
+Title: Buenos Aires
+ * PageRank: 9.630677979666456e-05
+Title: Nebraska
+ * PageRank: 9.615877491179287e-05
+Title: Polish language
+ * PageRank: 9.613139235320897e-05
+Title: Rio de Janeiro
+ * PageRank: 9.599219787834493e-05
+Title: Shanghai
+ * PageRank: 9.590718221410268e-05
+Title: Category:Social institutions
+ * PageRank: 9.575134755501622e-05
+Title: New Testament
+ * PageRank: 9.552461560511319e-05
+Title: Istanbul
+ * PageRank: 9.515756173278844e-05
+Title: William Shakespeare
+ * PageRank: 9.495745416577142e-05
+Title: Google Books
+ * PageRank: 9.490061479938146e-05
+Title: House of Commons of the United Kingdom
+ * PageRank: 9.481524854791221e-05
+Title: Americas
+ * PageRank: 9.45715759896745e-05
+Title: Lebanon
+ * PageRank: 9.456994244673024e-05
+Title: Southeast Asia
+ * PageRank: 9.438432415454526e-05
+Title: Broadsheet
+ * PageRank: 9.421920249455482e-05
+Title: Ethiopia
+ * PageRank: 9.401101109928863e-05
+Title: North Sea
+ * PageRank: 9.394200123641288e-05
+Title: United Kingdom of Great Britain and Ireland
+ * PageRank: 9.392048535312429e-05
+Title: Category:Research
+ * PageRank: 9.380637846479085e-05
+Title: Category:Botany
+ * PageRank: 9.379112390981891e-05
+Title: Category:Computing
+ * PageRank: 9.372482975953563e-05
+Title: War of 1812
+ * PageRank: 9.366778626182936e-05
+Title: Theodore Roosevelt
+ * PageRank: 9.349117289142541e-05
+Title: Copenhagen
+ * PageRank: 9.328382033394469e-05
+Title: Category:Belief
+ * PageRank: 9.321194820075373e-05
+Title: Julius Caesar
+ * PageRank: 9.297779726328382e-05
+Title: Austria-Hungary
+ * PageRank: 9.284607886437923e-05
+Title: Arabic
+ * PageRank: 9.249177979188568e-05
+Title: Academy Awards
+ * PageRank: 9.24652832028387e-05
+Title: Category:Wikipedia how-to
+ * PageRank: 9.237825268126591e-05
+Title: Barcelona
+ * PageRank: 9.235951538044588e-05
+Title: Wyoming
+ * PageRank: 9.173465470564981e-05
+Title: Category:Municipalities
+ * PageRank: 9.165703409917256e-05
+Title: University of Michigan
+ * PageRank: 9.151169821968224e-05
+Title: Luxembourg
+ * PageRank: 9.146873463876296e-05
+Title: East Germany
+ * PageRank: 9.14291904113115e-05
+Title: C (programming language)
+ * PageRank: 9.109293902448428e-05
+Title: Nepal
+ * PageRank: 9.108203993512249e-05
+Title: Federal Communications Commission
+ * PageRank: 9.105850212538766e-05
+Title: Warner Bros.
+ * PageRank: 9.099298710700349e-05
+Title: Harvard University Press
+ * PageRank: 9.0628742788499e-05
+Title: Kent
+ * PageRank: 9.05358208294908e-05
+Title: City of London
+ * PageRank: 9.043970295337622e-05
+Title: Latin America
+ * PageRank: 9.031350031362275e-05
+Title: Amtrak
+ * PageRank: 9.016875326892237e-05
+Title: Algeria
+ * PageRank: 8.997527914020778e-05
+Title: Category:Popular culture
+ * PageRank: 8.993535690337675e-05
+Title: Georgia (country)
+ * PageRank: 8.977062085157396e-05
+Title: Mumbai
+ * PageRank: 8.927377822863527e-05
+Title: Formula One
+ * PageRank: 8.924619349630698e-05
+Title: Category:Physical sciences
+ * PageRank: 8.919558865486213e-05
+Title: Divinity (academic discipline)
+ * PageRank: 8.918260024574639e-05
+Title: Hebrew language
+ * PageRank: 8.878564655409139e-05
+Title: Royal Society
+ * PageRank: 8.838320014066454e-05
+Title: John Wiley &amp; Sons
+ * PageRank: 8.82904700093122e-05
+Title: Broadway theatre
+ * PageRank: 8.823799263111613e-05
+Title: Charles II of England
+ * PageRank: 8.815718977608209e-05
+Title: Fox Broadcasting Company
+ * PageRank: 8.792481205449019e-05
+Title: North Korea
+ * PageRank: 8.789308544794017e-05
+Title: Unicode
+ * PageRank: 8.788498266403628e-05
+Title: Jesus
+ * PageRank: 8.774164847885078e-05
+Title: Baltic Sea
+ * PageRank: 8.774009604073131e-05
+Title: Category:Plants
+ * PageRank: 8.75856528106081e-05
+Title: Confederate States of America
+ * PageRank: 8.739981394339102e-05
+Title: Western Australia
+ * PageRank: 8.721622848056564e-05
+Title: Category:Physical geography
+ * PageRank: 8.710954664640385e-05
+Title: Rhode Island
+ * PageRank: 8.69823060108211e-05
+Title: Category:Europe
+ * PageRank: 8.693344770533503e-05
+Title: The Sydney Morning Herald
+ * PageRank: 8.68019316411954e-05
+Title: Black Sea
+ * PageRank: 8.669639645736716e-05
+Title: Czechoslovakia
+ * PageRank: 8.650452176499269e-05
+Title: Category:American films
+ * PageRank: 8.649961247741946e-05
+Title: Montana
+ * PageRank: 8.646597639297527e-05
+Title: National Collegiate Athletic Association
+ * PageRank: 8.631497088820417e-05
+Title: Category:Occupations
+ * PageRank: 8.62839519864601e-05
+Title: Ecuador
+ * PageRank: 8.625857119086093e-05
+Title: Lisbon
+ * PageRank: 8.613651416640261e-05
+Title: Slovenia
+ * PageRank: 8.584309822095577e-05
+Title: The Hollywood Reporter
+ * PageRank: 8.581730974800251e-05
+Title: Category:Arts genres by country or nationality
+ * PageRank: 8.561345333455903e-05
+Title: Financial Times
+ * PageRank: 8.558152572655256e-05
+Title: Category:Ship names
+ * PageRank: 8.544371893194371e-05
+Title: Belarus
+ * PageRank: 8.537246152204741e-05
+Title: Bronze Age
+ * PageRank: 8.520873974701714e-05
+Title: Augustus
+ * PageRank: 8.510681374467407e-05
+Title: Hindu
+ * PageRank: 8.504559304522592e-05
+Title: Idaho
+ * PageRank: 8.501251681900997e-05
+Title: Rhine
+ * PageRank: 8.496974466521685e-05
+Title: Welsh language
+ * PageRank: 8.487410610365283e-05
+Title: World Health Organization
+ * PageRank: 8.476769783865872e-05
+Title: English Civil War
+ * PageRank: 8.474611348055357e-05
+Title: Indigenous peoples of the Americas
+ * PageRank: 8.47141504203887e-05
+Title: Denver
+ * PageRank: 8.441240952667576e-05
+Title: Category:Entertainers
+ * PageRank: 8.411678160415699e-05
+Title: United States Postal Service
+ * PageRank: 8.395916988149383e-05
+Title: Swedish language
+ * PageRank: 8.36281922867646e-05
+Title: Budapest
+ * PageRank: 8.357335865712564e-05
